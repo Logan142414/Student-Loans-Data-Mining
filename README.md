@@ -117,7 +117,7 @@ We focus on:
 
 ## Documents
 
-* Final Paper: [Written Report.docx](Studen Loans Data Mining Written Report.pdf)
+* Final Paper: [Written Report.docx](./Studen Loans Data Mining Written Report.pdf)
 * Code Notebook: [The_Gamblers_Final_Version_1.ipynb](./The_Gamblers_Final_Version_1.ipynb)
 * Data Dictionary & Datasets: [Dictionary and Data Sets.zip](./Data Sets/Dictionary and Data Sets.zip)
 
